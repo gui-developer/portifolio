@@ -80,7 +80,7 @@ Para executar o projeto em ambiente local, siga os passos abaixo.
 1. Clone o repositório:
  
    ```bash
-   git clone https://github.com/rafaelq80/portfolio_tjs13.git
+   git clone https://github.com/gui-developer/portifolio
    ```
  
 2. Acesse a pasta do projeto:
